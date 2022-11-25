@@ -25,5 +25,5 @@ char* StrCpy(char* src) {
 }
 
 /*
-Remote edit by B21031605吴倩倩
+local edit by B21031605吴倩倩
 */
