@@ -23,3 +23,7 @@ char* StrCpy(char* src) {
 	//5.返回新申请的内存空间指针
 	return p;
 }
+
+/*
+Remote edit by B21031605吴倩倩
+*/
